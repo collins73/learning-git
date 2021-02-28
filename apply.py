@@ -3,4 +3,4 @@ def myName(first_name, last_name):
     person = first_name + " " + last_name + " is an Omega man!"
     return person 
     
-print(myName("Charles", "Drew"))
+print(myName("Demayne", "Collins"))
