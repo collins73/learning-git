@@ -1,6 +1,6 @@
 
-def myName(first_name, last_name): 
-    person = first_name + " " + last_name + " is an Omega man!"
+def myName(first_name, last_name, age): 
+    person = "Hello, this is " + first_name + " " + last_name + " and I am " + age + " years old!"
     return person 
     
-print(myName("Demayne", "Collins"))
+print(myName("James", "Bond", 67))
